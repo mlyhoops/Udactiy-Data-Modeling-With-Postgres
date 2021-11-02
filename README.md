@@ -94,7 +94,7 @@ And below is an example of what the data in a log file, 2018-11-24-events.json, 
 }
 ```
 
-### Tables created from song_data
+### Tables created from log_data
 
 #### time table: timestamp, hour, day, week of year, month, year, and weekday from the ts field
 
